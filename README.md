@@ -10,4 +10,5 @@
 
 
 > **buy me a coffee? see the [store]():**
+> [![help](https://raw.githubusercontent.com/sebastianjn/host/main/imagens/cafe.png)]()
 
