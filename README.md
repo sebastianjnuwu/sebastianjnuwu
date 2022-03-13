@@ -9,6 +9,5 @@
 # help me!!!
 
 
-> ** ☕ buy me a coffee? see the [store](https://ko-fi.com/sebastianjn007):**
-
+> ☕ **buy me a coffee? see the [store](https://ko-fi.com/sebastianjn007):**
 
