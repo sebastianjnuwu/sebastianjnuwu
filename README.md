@@ -6,5 +6,13 @@
 > 
 >  "Hello, how are you? I use github more as my work portfolio for fun, I love programming to make drawings and help those who need it, come and know a little about me! I love playing Minecraft,Did you know I have a discord bot? it's called KettraWorld very cool then check it out!"
 
+# help me!!!
+
+
+> **buy me a coffee? see the [store]():**
+
+"Life only begins after coffee!"
+
+<a href="url"><img src="https://raw.githubusercontent.com/sebastianjn/host/main/imagens/cafe.png" align="center" height="250" width="150" ></a>
 
 
