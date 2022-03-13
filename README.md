@@ -9,6 +9,6 @@
 # help me!!!
 
 
-> **buy me a coffee? see the [store]():**
-> [![help](https://raw.githubusercontent.com/sebastianjn/host/main/imagens/cafe.png)]()
+> ** ☕ buy me a coffee? see the [store](https://ko-fi.com/sebastianjn007):**
+
 
