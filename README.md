@@ -11,8 +11,3 @@
 
 > **buy me a coffee? see the [store]():**
 
-"Life only begins after coffee!"
-
-<a href="url"><img src="https://raw.githubusercontent.com/sebastianjn/host/main/imagens/cafe.png" align="center" height="250" width="150" ></a>
-
-
