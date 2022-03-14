@@ -12,6 +12,6 @@
 > ☕ **buy me a coffee? [Look](https://ko-fi.com/sebastianjn007)**
 
 > [![](https://github-readme-stats.vercel.app/api?username=sebastianjn&show_icons=true&theme=draculaate)](https://github.com/sebastianjn) <br>
-> [![](https://github-readme-stats.vercel.app/api/top-langs/?username=sebastianjn&layout=compact&langs_count=7&theme=dracula)](https://github.com/sebastianjn)
+> [![](https://github-readme-stats.vercel.app/api/top-langs/?username=sebastianjn&layout=compact&langs_count=7&show_icons=true&theme=draculaate)](https://github.com/sebastianjn)
 > ![snake](https://github.com/sebastianjn/sebastianjn/blob/output/github-contribution-grid-snake.svg)
 
