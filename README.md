@@ -11,7 +11,7 @@
 
 > ☕ **buy me a coffee? [Look](https://ko-fi.com/sebastianjn007)**
 
-> [![](https://github-readme-stats.vercel.app/api?username=sebastianjn&show_icons=true&bg_color=000000&icon_color=#FF2900&text_color=fffafa&title_color=A020F0)](https://github.com/jvopinho) <br>
+> [![](https://github-readme-stats.vercel.app/api?username=sebastianjn&show_icons=true&bg_color=000000&icon_color=#FF2900&text_color=fffafa&title_color=A020F0)](https://github.com/sebastianjn) <br>
 
 
 
