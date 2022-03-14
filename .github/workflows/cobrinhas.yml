@@ -4,7 +4,7 @@ on:
 
   schedule: # execute every 2 hours
 
-    - cron: "* */2 * * *"
+    - cron: "* */12 * * *"
 
   workflow_dispatch:
 
