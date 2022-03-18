@@ -14,7 +14,10 @@
 
 
 > ☕ **buy me a coffee? [Look](https://ko-fi.com/sebastianjn007)**
+</br>
 
+> [![](https://github-readme-stats.vercel.app/api/pin?repo=KellyWorld&username=sebastianjn&show_icons=true&theme=draculaat)](https://github.com/sebastianjn/KellyWorld) 
+> 
 > [![](https://github-readme-stats.vercel.app/api?username=sebastianjn&show_icons=true&theme=draculaate)](https://github.com/sebastianjn) <br>
 > 
 > [![](https://github-readme-stats.vercel.app/api/top-langs/?username=sebastianjn&layout=compact&langs_count=7&show_icons=true&theme=draculaate)](https://github.com/sebastianjn)
