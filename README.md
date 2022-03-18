@@ -6,12 +6,11 @@
 > 
 >  "Hello, how are you? I use github more as my work portfolio for fun, I love programming to make drawings and help those who need it, come and know a little about me! I love playing minecraft,Did you know I have a discord bot? it's called KellyWorld very cool then check it out!"
 >
-> 📄 **Portfolio to view [click here]()**
+> 📄 **Portfolio to view [click here]()** </br>
 > 🌠 **organization to view [click here]()**
 > 
 
 # help me!!!
-
 
 > ☕ **buy me a coffee? [Look](https://ko-fi.com/sebastianjn007)**
 </br>
