@@ -6,7 +6,7 @@
 > 
 >  "Hello, how are you? I use github more as my work portfolio for fun, I love programming to make drawings and help those who need it, come and know a little about me! I love playing minecraft,Did you know I have a discord bot? it's called KellyWorld very cool then check it out!"
 >
-> 📄 **Portfolio to view [click here]()** </br>
+> 📄 **Portfolio to view [click here](#)** </br>
 > 🌠 **Organization to view [click here](https://github.com/kettraworld)** </br>
 > 🎑 **My minecraft server to view [click here](https://discord.gg/NDzFeDp8YE)** </br>
 > 🌟 **Bot In Development to view [click here](https://github.com/sebastianjn/KellyWorld#welcome-to-the-official-kellyworld-repository)** 
