@@ -8,9 +8,6 @@
 >
 > 📄 **Portfolio to view [click here]()**
 >
-> ![php](https://img.shields.io/badge/php-000.svg?style=for-the-badge&logo=javascript&logoColor=white&labelColor=0063FF)
-> ![js](https://img.shields.io/badge/javascript-000.svg?style=for-the-badge&logo=javascript&logoColor=white&labelColor=FFE800)
-> ![html](https://img.shields.io/badge/html-000.svg?style=for-the-badge&logo=javascript&logoColor=white&labelColor=FF6500)
 
 # help me!!!
 
