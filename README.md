@@ -7,8 +7,8 @@
 >  "Hello, how are you? I use github more as my work portfolio for fun, I love programming to make drawings and help those who need it, come and know a little about me! I love playing minecraft,Did you know I have a discord bot? it's called KellyWorld very cool then check it out!"
 >
 > ![php](https://img.shields.io/badge/php-000.svg?style=for-the-badge&logo=javascript&logoColor=white&labelColor=0063FF)
-> ![js](https://img.shields.io/badge/javascript-000.svg?style=for-the-badge&logo=javascript&logoColor=white&labelColor=a020f0)
-> ![html](https://img.shields.io/badge/html-000.svg?style=for-the-badge&logo=javascript&logoColor=white&labelColor=a020f0)
+> ![js](https://img.shields.io/badge/javascript-000.svg?style=for-the-badge&logo=javascript&logoColor=white&labelColor=FFE800)
+> ![html](https://img.shields.io/badge/html-000.svg?style=for-the-badge&logo=javascript&logoColor=white&labelColor=FF6500)
 
 # help me!!!
 
