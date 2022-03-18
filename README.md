@@ -8,8 +8,8 @@
 >
 > 📄 **Portfolio to view [click here]()** </br>
 > 🌠 **Organization to view [click here]()** </br>
-> 🎑 **My minecraft server to view [click here]()** </br>
-> 🌟 **Bot In Development to view [click here]()** 
+> 🎑 **My minecraft server to view [click here](https://discord.gg/NDzFeDp8YE)** </br>
+> 🌟 **Bot In Development to view [click here](https://github.com/sebastianjn/KellyWorld#welcome-to-the-official-kellyworld-repository)** 
 
 # help me!!!
 
