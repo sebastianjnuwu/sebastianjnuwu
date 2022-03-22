@@ -10,7 +10,9 @@
 > 🌠 **Organization to view [click here](https://github.com/kettraworld)** </br>
 > 🎑 **My minecraft server to view [click here](https://discord.gg/NDzFeDp8YE)** </br>
 > 🌟 **Bot In Development to view [click here](https://github.com/sebastianjn/KellyWorld#welcome-to-the-official-kellyworld-repository)** 
-
+> 
+> <img src="https://media0.giphy.com/media/l49JMXqhPSZiaYNag/giphy.gif?cid=ecf05e47bsa3hf37bogyp6qno8kkx60gvvxq36hs4jfhjsop&rid=giphy.gif&ct=s" width="125" height="125">
+> 
 > <a href='https://ko-fi.com/Z8Z6BKCU0' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi3.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
 <!----
