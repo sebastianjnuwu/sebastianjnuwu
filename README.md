@@ -5,7 +5,6 @@
 > ❤️ **• I love programming, especially javascript!**
 > 
 >  "Hello, how are you? I use github more as my work portfolio for fun, I love programming to make drawings and help those who need it, come and know a little about me! I love playing minecraft,Did you know I have a discord bot? it's called KellyWorld very cool then check it out!"
->
 
 > 🌠 **Organization to view [click here](https://github.com/kettraworld)** </br>
 > 🎑 **My minecraft server to view [click here](https://discord.gg/NDzFeDp8YE)** </br>
@@ -22,8 +21,6 @@
 ![Php](https://img.shields.io/badge/php-000.svg?style=for-the-badge&logo=php&logoColor=white&labelColor=FF003B)
 ![nodeJs](https://img.shields.io/badge/node.js-000.svg?style=for-the-badge&logo=node.js&logoColor=white&labelColor=FF003B)
 ![Mysql](https://img.shields.io/badge/mysql-000.svg?style=for-the-badge&logo=mysql&logoColor=white&labelColor=FF003B)
-
-
 <!----
 > [![](https://github-readme-stats.vercel.app/api/pin?repo=KellyWorld&username=sebastianjn&show_icons=true&theme=draculaat)](https://github.com/sebastianjn/KellyWorld) 
 > 
@@ -32,8 +29,4 @@
 > [![](https://github-readme-stats.vercel.app/api/top-langs/?username=sebastianjn&layout=compact&langs_count=7&show_icons=true&theme=draculaate)](https://github.com/sebastianjn)
 > 
 ----->
-
 ![snake](https://github.com/sebastianjn/sebastianjn/blob/output/github-contribution-grid-snake.svg)
-
-
-
