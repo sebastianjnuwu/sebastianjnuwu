@@ -8,7 +8,7 @@
 
 > 🌠 **Organization to view [click here](https://github.com/kettraworld)** </br>
 > 🎑 **My minecraft server to view [click here](https://discord.gg/NDzFeDp8YE)** </br>
-> 🌟 **Bot In Development to view [click here](https://github.com/sebastianjn/KellyWorld#welcome-to-the-official-kellyworld-repository)** 
+> 🌟 **Bot In Development to view [click here](https://github.com/sebastianjnuwu/KellyWorld#welcome-to-the-official-kellyworld-repository)** 
 > 
 > <img src="https://media0.giphy.com/media/l49JMXqhPSZiaYNag/giphy.gif?cid=ecf05e47bsa3hf37bogyp6qno8kkx60gvvxq36hs4jfhjsop&rid=giphy.gif&ct=s" width="125" height="125">
 > 
@@ -22,5 +22,5 @@
 ![nodeJs](https://img.shields.io/badge/node.js-000.svg?style=for-the-badge&logo=node.js&logoColor=white&labelColor=FF003B)
 ![Mysql](https://img.shields.io/badge/mysql-000.svg?style=for-the-badge&logo=mysql&logoColor=white&labelColor=FF003B)
 
-![snake](https://github.com/sebastianjn/sebastianjn/blob/output/github-contribution-grid-snake.svg)
+![snake](https://github.com/sebastianjnuwu/sebastianjnuwu/blob/output/github-contribution-grid-snake.svg)
 
