@@ -1,15 +1,9 @@
-# 👋 Welcome to my Github Profile!!!
-> [![help](https://raw.githubusercontent.com/sebastianjn/sebastianjn/main/imagens/banner.png)](https://ko-fi.com/sebastianjn007) 
+<img align="right" src="https://github.com/sebastianjnuwu/sebastianjnuwu/blob/main/imagens/perfil.png?raw=true" width="300"/>
 
-> 🌟 **• my name is sebastian, I currently live in Brazil!** </br>
-> ❤️ **• I love programming, especially javascript!**
-> 
->  "Hello, how are you? I use github more as my work portfolio for fun, I love programming to make drawings and help those who need it, come and know a little about me! I love playing minecraft,Did you know I have a discord bot? it's called KellyWorld very cool then check it out!"
+## Oh my God! You found me!
 
-> 🌠 **Organization to view [click here](https://github.com/kettraworld)** </br>
-> 🎑 **My minecraft server to view [click here](https://discord.gg/NDzFeDp8YE)** </br>
-> 🌟 **Bot In Development to view [click here](https://github.com/sebastianjnuwu/KellyWorld#welcome-to-the-official-kellyworld-repository)** 
-> 
+Are you glad you found me? I'm sure you won't like my codes! But even so, there are other horrible ones, have fun in your search, in the meantime I'm in search of creativity! **UwU**
+
 > <img src="https://media0.giphy.com/media/l49JMXqhPSZiaYNag/giphy.gif?cid=ecf05e47bsa3hf37bogyp6qno8kkx60gvvxq36hs4jfhjsop&rid=giphy.gif&ct=s" width="125" height="125">
 > 
 > <a href='https://ko-fi.com/Z8Z6BKCU0' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi3.png?v=3' border='0' alt='Buy Me a Coffee!' /></a>
