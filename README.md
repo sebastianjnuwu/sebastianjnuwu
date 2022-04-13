@@ -1,12 +1,12 @@
 <img align="right" src="https://github.com/sebastianjnuwu/sebastianjnuwu/blob/main/imagens/perfil.png?raw=true" width="300"/>
 
-> ## Oh my God! You found me!
+## Oh my God! You found me!
 
-> Are you glad you found me? I'm sure you won't like my codes! But even so, there are other horrible ones, have fun in your search, in the meantime I'm in search of creativity! **UwU**
+ Are you glad you found me? I'm sure you won't like my codes! But even so, there are other horrible ones, have fun in your search, in the meantime I'm in search of creativity! **UwU**
 
-> <img src="https://media0.giphy.com/media/l49JMXqhPSZiaYNag/giphy.gif?cid=ecf05e47bsa3hf37bogyp6qno8kkx60gvvxq36hs4jfhjsop&rid=giphy.gif&ct=s" width="125" height="125">
-> 
-> <a href='https://ko-fi.com/Z8Z6BKCU0' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi3.png?v=3' border='0' alt='Buy Me a Coffee!' /></a>
+ <img src="https://media0.giphy.com/media/l49JMXqhPSZiaYNag/giphy.gif?cid=ecf05e47bsa3hf37bogyp6qno8kkx60gvvxq36hs4jfhjsop&rid=giphy.gif&ct=s" width="125" height="125">
+
+ <a href='https://ko-fi.com/Z8Z6BKCU0' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi3.png?v=3' border='0' alt='Buy Me a Coffee!' /></a>
 
 # Skills 
 
