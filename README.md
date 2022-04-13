@@ -23,5 +23,3 @@
 ![Mysql](https://img.shields.io/badge/mysql-000.svg?style=for-the-badge&logo=mysql&logoColor=white&labelColor=FF003B)
 
 ![snake](https://github.com/sebastianjnuwu/sebastianjnuwu/blob/output/github-contribution-grid-snake.svg)
-
-
