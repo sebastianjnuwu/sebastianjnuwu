@@ -1,6 +1,6 @@
 <img align="right" src="https://github.com/sebastianjnuwu/sebastianjnuwu/blob/main/imagens/perfil.png?raw=true" width="300"/>
 
-## Oh my God! You found me!
+## 😱 Oh my God! You found me!
 
  Are you glad you found me? I'm sure you won't like my codes! But even so, there are other horrible ones, have fun in your search, in the meantime I'm in search of creativity! **UwU**
 
