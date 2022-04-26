@@ -1,4 +1,3 @@
-
 <img align="right" src="https://github.com/sebastianjnuwu/sebastianjnuwu/blob/main/imagens/perfil.png?raw=true" width="300"/>
 
 ## Oh my God! You found me!
@@ -7,7 +6,7 @@
 
  <img src="https://raw.githubusercontent.com/sebastianjnuwu/sebastianjnuwu/main/imagens/gato.png" width="125" height="125">
 
- <a href='https://ko-fi.com/Z8Z6BKCU0' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi3.png?v=3' border='0' alt='Buy Me a Coffee!' /></a>
+ <a href='https://ko-fi.com/Z8Z6BKCU0' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi3.png?v=3' border='0' alt='Buy Me Coffee?' /></a>
 
 # Skills 
 
