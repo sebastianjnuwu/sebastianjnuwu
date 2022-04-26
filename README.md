@@ -5,7 +5,10 @@
 
  Are you glad you found me? I'm sure you won't like my codes! But even so, there are other horrible ones, have fun in your search, in the meantime I'm in search of creativity! **UwU**
 
- <img src="https://media0.giphy.com/media/l49JMXqhPSZiaYNag/giphy.gif?cid=ecf05e47bsa3hf37bogyp6qno8kkx60gvvxq36hs4jfhjsop&rid=giphy.gif&ct=s" width="125" height="125">
+ <img src="https://i.gifer.com/origin/af/af4f7f501afe0fb87ef9f7ab3fa6136f.gif" width="125" height="125">
+ 
+<!---
+  <img src="https://media0.giphy.com/media/l49JMXqhPSZiaYNag/giphy.gif?cid=ecf05e47bsa3hf37bogyp6qno8kkx60gvvxq36hs4jfhjsop&rid=giphy.gif&ct=s" width="125" height="125"> -->
 
  <a href='https://ko-fi.com/Z8Z6BKCU0' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi3.png?v=3' border='0' alt='Buy Me a Coffee!' /></a>
 
