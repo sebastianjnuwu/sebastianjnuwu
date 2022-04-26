@@ -5,7 +5,7 @@
 
  Are you glad you found me? I'm sure you won't like my codes! But even so, there are other horrible ones, have fun in your search, in the meantime I'm in search of creativity! **UwU**
 
- <img src="https://i.gifer.com/origin/af/af4f7f501afe0fb87ef9f7ab3fa6136f.gif" width="125" height="125">
+ <img src="https://e7.pngegg.com/pngimages/408/266/png-clipart-cup-of-coffee-cat-japanese-cat-cartoon-cat.png" width="125" height="125">
  
 <!---
   <img src="https://media0.giphy.com/media/l49JMXqhPSZiaYNag/giphy.gif?cid=ecf05e47bsa3hf37bogyp6qno8kkx60gvvxq36hs4jfhjsop&rid=giphy.gif&ct=s" width="125" height="125"> -->
