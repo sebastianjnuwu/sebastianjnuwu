@@ -1,5 +1,5 @@
 ## 👋 Welcome to my profile!
-> ![](https://media.discordapp.net/attachments/969290884300537868/974743614796206080/IMG_20220513_154257.jpg)
+> ![](https://media.discordapp.net/attachments/969290884300537868/974744327890800731/1e4a9f8e-885d-419a-b01a-92188ccd6d6a.jpeg)<br>
 > Me chamo **Sebastian** ฅ^•ﻌ•^ฅ
   
   
