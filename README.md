@@ -5,6 +5,8 @@
  `• ✉️ Email` - sebastianjnuwu@gmail.com
 
  `• 📸 Instagram` - [@sebastianjnuwu](https://instagram.com/sebastianjnuwu)
+ 
+ `• 🎙️ twitch` - [@sebastianjnuwu]()
 
 <details>
   <summary>More information!</summary>
