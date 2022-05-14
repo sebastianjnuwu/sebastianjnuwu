@@ -2,7 +2,9 @@
 
 ## 📫 contato:
 
-• `✉️ email` - sebastianjnuwu@gmail.com
+`• ✉️ email` - sebastianjnuwu@gmail.com
+
+ `• 📸 instagram` - [@sebastianjnuwu](https://instagram.com/sebastianjnuwu)
 
 <details>
   <summary>More information!</summary>
