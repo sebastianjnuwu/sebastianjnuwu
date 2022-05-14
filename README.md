@@ -6,9 +6,9 @@
 
  `• 📸 Instagram` - [instagram/@sebastianjnuwu](https://instagram.com/sebastianjnuwu)
  
- `• 🎙️ twitch` - [twitch/@sebastianjnuwu](https://twitch.tv/sebastianjnuwu)
+ `• 🎙️ Twitch` - [twitch/@sebastianjnuwu](https://twitch.tv/sebastianjnuwu)
   
-  `• 🐦 twitter` - [twitter/@sebastianjnuwu](https://twitter.com/sebastianjnuwu)
+  `• 🐦 Twitter` - [twitter/@sebastianjnuwu](https://twitter.com/sebastianjnuwu)
 
 <details>
   <summary>More information!</summary>
