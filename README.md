@@ -2,6 +2,8 @@
 
 ## 📫 contato:
 
+• `✉️ email` - sebastianjnuwu@gmail.com
+
 <details>
   <summary>More information!</summary>
   
