@@ -1,10 +1,12 @@
 [![](https://media.discordapp.net/attachments/969290884300537868/974744327890800731/1e4a9f8e-885d-419a-b01a-92188ccd6d6a.jpeg)](https://discord.com/users/932678185970192404)<br>
 
 ## 📫 contato:
+  
+ `• 🎬 YouTube` - [sebastianjnuwu]()
+ 
+ `• ✉️ Email` - sebastianjnuwu@gmail.com
 
-`• ✉️ email` - sebastianjnuwu@gmail.com
-
- `• 📸 instagram` - [@sebastianjnuwu](https://instagram.com/sebastianjnuwu)
+ `• 📸 Instagram` - [@sebastianjnuwu](https://instagram.com/sebastianjnuwu)
 
 <details>
   <summary>More information!</summary>
