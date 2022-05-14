@@ -4,9 +4,11 @@
  
  `• ✉️ Email` - sebastianjnuwu@gmail.com
 
- `• 📸 Instagram` - [@sebastianjnuwu](https://instagram.com/sebastianjnuwu)
+ `• 📸 Instagram` - [instagram/@sebastianjnuwu](https://instagram.com/sebastianjnuwu)
  
- `• 🎙️ twitch` - [@sebastianjnuwu]()
+ `• 🎙️ twitch` - [twitch/@sebastianjnuwu](https://twitch.tv/sebastianjnuwu)
+  
+  `• tw` - [twitter/@sebastianjnuwu](https://twitter.com/sebastianjnuwu)
 
 <details>
   <summary>More information!</summary>
