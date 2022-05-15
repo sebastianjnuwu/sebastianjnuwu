@@ -3,16 +3,6 @@
     <img src="https://lanyard.cnrad.dev/api/932678185970192404?bg=1f1f1f&borderRadius=5px" alt="Discord Status"/>
     </a>
     </p>
-    
- `• ✉️ Email` - sebastianjnuwu@gmail.com 
- 
- `• 🎬 YouTube` - [youtube/sebastianjnuwu]()
-
- `• 📸 Instagram` - [instagram/@sebastianjnuwu](https://instagram.com/sebastianjnuwu)
- 
- `• 🎙️ Twitch` - [twitch/@sebastianjnuwu](https://twitch.tv/sebastianjnuwu)
-  
-  `• 🐦 Twitter` - [twitter/@sebastianjnuwu](https://twitter.com/sebastianjnuwu)
 
 <details>
   <summary>More information!</summary>
