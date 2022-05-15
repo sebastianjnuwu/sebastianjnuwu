@@ -1,5 +1,9 @@
-[![Discord Presence](https://lanyard.cnrad.dev/api/932678185970192404)](https://discord.com/users/932678185970192404)
-  
+ <p align="center">
+  <a href="https://discord.com/users/932678185970192404" target="_blank">
+    <img src="https://lanyard.cnrad.dev/api/932678185970192404?bg=1f1f1f&borderRadius=5px" alt="Discord Status"/>
+    </a>
+    </p>
+    
  `• ✉️ Email` - sebastianjnuwu@gmail.com 
  
  `• 🎬 YouTube` - [youtube/sebastianjnuwu]()
