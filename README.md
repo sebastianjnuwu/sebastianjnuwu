@@ -1,8 +1,6 @@
 [![](https://media.discordapp.net/attachments/969290884300537868/974744327890800731/1e4a9f8e-885d-419a-b01a-92188ccd6d6a.jpeg)](https://discord.com/users/932678185970192404)<br>
   
- `• ✉️ Email` - sebastianjnuwu@gmail.com
-   
- `• 🎬 YouTube` - [youtube/sebastianjnuwu]()
+ `• ✉️ Email` - sebastianjnuwu@gmail.com   `• 🎬 YouTube` - [youtube/sebastianjnuwu]()
 
  `• 📸 Instagram` - [instagram/@sebastianjnuwu](https://instagram.com/sebastianjnuwu)
  
