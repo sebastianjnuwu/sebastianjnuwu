@@ -5,6 +5,10 @@
 
 Hello, I'm currently living in <strong>Brazil</strong> in the <strong>northeast</strong> region ahh it's very hot here kkk
 
-📬 <strong>email:</strong> sebastianjnuwu@gmail.com
+📬 <strong>Email:</strong> sebastianjnuwu@gmail.com
+
+📸 <strong>Instagram:</strong> https://www.instagram.com/sebastianjnuwu
+
+🎮 <strong>Discord:</strong> https://kettraworld.github.io/discord
 
 
