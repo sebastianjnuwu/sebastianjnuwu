@@ -22,7 +22,7 @@ Hello, I'm currently living in <strong>Brazil</strong> in the <strong>northeast<
 ![Php](https://img.shields.io/badge/php-000.svg?style=for-the-badge&logo=php&logoColor=white&labelColor=FF003B)
 ![nodeJs](https://img.shields.io/badge/node.js-000.svg?style=for-the-badge&logo=node.js&logoColor=white&labelColor=FF003B)
 ![Mysql](https://img.shields.io/badge/mysql-000.svg?style=for-the-badge&logo=mysql&logoColor=white&labelColor=FF003B)
-
+![python](https://img.shields.io/badge/python-000.svg?style=for-the-badge&logo=python&logoColor=white&labelColor=FF003B)
 
 ![snake](https://github.com/sebastianjnuwu/sebastianjnuwu/blob/output/github-contribution-grid-snake.svg)
 
