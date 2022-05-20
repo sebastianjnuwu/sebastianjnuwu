@@ -17,11 +17,11 @@ Hello, I'm currently living in <strong>Brazil</strong> in the <strong>northeast<
 
 # Skills 
 
-![Git](https://img.shields.io/badge/git-000.svg?style=for-the-badge&logo=git&logoColor=white&labelColor=d100f647)
-![Html](https://img.shields.io/badge/html-000.svg?style=for-the-badge&logo=html5&logoColor=white&labelColor=d100f647)
-![Php](https://img.shields.io/badge/php-000.svg?style=for-the-badge&logo=php&logoColor=white&labelColor=d100f647)
-![nodeJs](https://img.shields.io/badge/node.js-000.svg?style=for-the-badge&logo=node.js&logoColor=white&labelColor=d100f647)
-![Mysql](https://img.shields.io/badge/mysql-000.svg?style=for-the-badge&logo=mysql&logoColor=white&labelColor=d100f647)
+![Git](https://img.shields.io/badge/git-000.svg?style=for-the-badge&logo=git&logoColor=white&labelColor=FF00F3)
+![Html](https://img.shields.io/badge/html-000.svg?style=for-the-badge&logo=html5&logoColor=white&labelColor=FF00F3)
+![Php](https://img.shields.io/badge/php-000.svg?style=for-the-badge&logo=php&logoColor=white&labelColor=FF00F3)
+![nodeJs](https://img.shields.io/badge/node.js-000.svg?style=for-the-badge&logo=node.js&logoColor=white&labelColor=FF00F3)
+![Mysql](https://img.shields.io/badge/mysql-000.svg?style=for-the-badge&logo=mysql&logoColor=white&labelColor=FF00F3)
 
 
 ![snake](https://github.com/sebastianjnuwu/sebastianjnuwu/blob/output/github-contribution-grid-snake.svg)
