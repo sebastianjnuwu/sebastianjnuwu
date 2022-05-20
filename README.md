@@ -7,8 +7,8 @@ Hello, I'm currently living in <strong>Brazil</strong> in the <strong>northeast<
 
 📬 <strong>Email:</strong> sebastianjnuwu@gmail.com
 
-📸 <strong>Instagram:</strong> https://www.instagram.com/sebastianjnuwu
+📸 <strong>Instagram:</strong> [@sebastianjnuwu](https://www.instagram.com/sebastianjnuwu)
 
-🎮 <strong>Discord:</strong> https://kettraworld.github.io/discord
+🎮 <strong>Discord:</strong> [grupo de minecraft](https://kettraworld.github.io/discord)
 
 
