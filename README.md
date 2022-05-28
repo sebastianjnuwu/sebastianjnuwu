@@ -9,7 +9,7 @@ Hello, I'm currently living in <strong>Brazil</strong> in the <strong>northeast<
 
 📸 <strong>Instagram:</strong> [@sebastianjnuwu](https://www.instagram.com/sebastianjnuwu)
 
-🎮 <strong>Discord:</strong> [grupo de minecraft](https://kettraworld.github.io/discord)
+🎮 <strong>Discord:</strong> [minecraft server](https://kettraworld.github.io/discord)
 
 🎥 <strong>Twitch:</strong> [Twitch/@sebastianjnuwu](https://m.twitch.tv/sebastianjnuwu?desktop-redirect=true)
 
