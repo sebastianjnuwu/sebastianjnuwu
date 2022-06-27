@@ -1,6 +1,6 @@
 # 👋 Hi my name is Sebastian
 
-I am a developer and one of the founders of <strong>[`KettraWorld`](https://discord.gg/NDzFeDp8YE)</strong>... I am a very fast learner of several languages of programming, I'm more familiar with javascript and php, I intend to learn Kotlin....
+I am a developer and one of the founders of [`KettraWorld`](https://discord.gg/NDzFeDp8YE), I am a very fast learner of several languages of programming, I'm more familiar with javascript and php, I intend to learn Kotlin....
 
 # Skills 
 
