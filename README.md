@@ -1,10 +1,6 @@
-# 👋 welcome!
+# 👋 Hi my name is Sebastian
 
-<p align="center">
- <a><img alt="" src="https://raw.githubusercontent.com/sebastianjnuwu/sebastianjnuwu/main/imagens/perfil.png" width=300 height=275></a>
-</p>
-
-Hello, I'm currently living in <strong>Brazil</strong> in the <strong>northeast</strong> region ahh it's very hot here 
+I am a developer and one of the founders of [KettraWorld](https://discord.gg/NDzFeDp8YE), I am a very fast learner of several languages of programming it's from systems, I'm more familiar with javascript and php, I intend to learn Kotlin....
 
 # Skills 
 
