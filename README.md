@@ -1,5 +1,7 @@
 # 👋 Hi my name is Sebastian
 
+[![](https://raw.githubusercontent.com/sebastianjnuwu/sebastianjnuwu/main/imagens/dazai.png)](https://discord.com/users/932678185970192404)
+
 I am a developer and one of the founders of [`KettraWorld`](https://discord.gg/NDzFeDp8YE), I am a very fast learner of several languages of programming, I'm more familiar with javascript and php, I intend to learn Kotlin....
 
 # Skills 
