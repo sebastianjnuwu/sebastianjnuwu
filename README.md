@@ -1,19 +1,10 @@
 # 👋 welcome!
 
-<img align="center" alt="perfil" width="235" 
-     src="https://raw.githubusercontent.com/sebastianjnuwu/sebastianjnuwu/main/imagens/perfil.png">
+<p align="center">
+ <a><img alt="" src="https://raw.githubusercontent.com/sebastianjnuwu/sebastianjnuwu/main/imagens/perfil.png" width=300 height=275></a>
+</p>
 
 Hello, I'm currently living in <strong>Brazil</strong> in the <strong>northeast</strong> region ahh it's very hot here 
-
-📬 <strong>Email:</strong> sebastianjnuwu@gmail.com
-
-📸 <strong>Instagram:</strong> [@sebastianjnuwu](https://www.instagram.com/sebastianjnuwu)
-
-🎮 <strong>Discord:</strong> [minecraft server](https://kettraworld.github.io/discord)
-
-🎥 <strong>Twitch:</strong> [Twitch/@sebastianjnuwu](https://m.twitch.tv/sebastianjnuwu?desktop-redirect=true)
-
-🎬 <strong>Youtube:</strong> [Youtube/@sebastianjnuwu](https://youtube.com/c/SEBASTIANJNOO7)
 
 # Skills 
 
