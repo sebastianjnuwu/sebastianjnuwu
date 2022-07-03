@@ -12,7 +12,6 @@ I am a developer and one of the founders of [`KettraWorld`](https://discord.gg/N
 ![nodeJs](https://img.shields.io/badge/node.js-000.svg?style=for-the-badge&logo=node.js&logoColor=white&labelColor=FF00F3)
 ![Mysql](https://img.shields.io/badge/mysql-000.svg?style=for-the-badge&logo=mysql&logoColor=white&labelColor=FF00F3)
 
-
 ![snake](https://github.com/sebastianjnuwu/sebastianjnuwu/blob/output/github-contribution-grid-snake.svg)
 
 <details>
