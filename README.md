@@ -14,6 +14,3 @@ I am a developer and one of the founders of [`KettraWorld`](https://discord.gg/N
 
 ![snake](https://github.com/sebastianjnuwu/sebastianjnuwu/blob/output/github-contribution-grid-snake.svg)
 
-
-
-
