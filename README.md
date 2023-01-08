@@ -1,4 +1,4 @@
-# 👋 Hi my name is Sebastian
+# 👋 Hi, I'm Sebastian
 
 [![](https://raw.githubusercontent.com/sebastianjnuwu/sebastianjnuwu/main/imagens/dazai.png)](https://discord.com/users/932678185970192404)
 
