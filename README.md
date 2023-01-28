@@ -3,7 +3,7 @@
 </div>
 <br>
  <p align="center">
- <smail>Sometimes, you just need to say sorry. Even if it's not your fault.<smail>
+ <smail>If you find yourself distressed about something, ask yourself if it will still matter tomorrow or next week or next month.<smail>
  </p>
 <br>
 <img alt="little snake" src="https://github.com/sebastianjnuwu/sebastianjnuwu/blob/output/github-contribution-grid-snake.svg"/>
