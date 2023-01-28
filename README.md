@@ -3,7 +3,7 @@
 </div>
 <br>
  <p align="center">
- <smail>Remember that spiders are more afraid of you, than you are of them.<smail>
+ <smail>Don't take life too seriously.<smail>
  </p>
 <br>
 <img alt="little snake" src="https://github.com/sebastianjnuwu/sebastianjnuwu/blob/output/github-contribution-grid-snake.svg"/>
