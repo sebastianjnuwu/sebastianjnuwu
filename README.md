@@ -3,7 +3,7 @@
 </div>
 <br>
  <p align="center">
- <smail>If it still itches after a week, go to the doctors.<smail>
+ <smail>Remember that spiders are more afraid of you, than you are of them.<smail>
  </p>
 <br>
 <img alt="little snake" src="https://github.com/sebastianjnuwu/sebastianjnuwu/blob/output/github-contribution-grid-snake.svg"/>
