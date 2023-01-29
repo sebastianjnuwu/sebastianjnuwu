@@ -3,7 +3,7 @@
 </div>
 <br>
  <p align="center">
- <smail>When you're at a concert or event, enjoy the moment, enjoy being there. Try leaving your camera in your pocket.<smail>
+ <smail>A nod is as good as a wink to a blind horse.<smail>
  </p>
 <br>
 <img alt="little snake" src="https://github.com/sebastianjnuwu/sebastianjnuwu/blob/output/github-contribution-grid-snake.svg"/>
