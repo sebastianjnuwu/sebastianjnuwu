@@ -3,7 +3,7 @@
 </div>
 <br>
  <p align="center">
- <smail>Try to do the things that you're incapable of.<smail>
+ <smail>When you're at a concert or event, enjoy the moment, enjoy being there. Try leaving your camera in your pocket.<smail>
  </p>
 <br>
 <img alt="little snake" src="https://github.com/sebastianjnuwu/sebastianjnuwu/blob/output/github-contribution-grid-snake.svg"/>
