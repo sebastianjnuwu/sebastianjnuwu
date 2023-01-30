@@ -3,7 +3,7 @@
 </div>
 <br>
  <p align="center">
- <smail>Try to pay at least one person a compliment every day.<smail>
+ <smail>Don't promise what you can't deliver.<smail>
  </p>
 <br>
 <img alt="little snake" src="https://github.com/sebastianjnuwu/sebastianjnuwu/blob/output/github-contribution-grid-snake.svg"/>
