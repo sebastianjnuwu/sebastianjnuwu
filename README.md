@@ -3,7 +3,7 @@
 </div>
 <br>
  <p align="center">
- <smail>When having a clear out, ask yourself if an item has any financial, practical or sentimental value. If not, chuck it.<smail>
+ <smail>When you're looking up at birds flying overhead, keep your mouth closed.<smail>
  </p>
 <br>
 <img alt="little snake" src="https://github.com/sebastianjnuwu/sebastianjnuwu/blob/output/github-contribution-grid-snake.svg"/>
