@@ -3,7 +3,7 @@
 </div>
 <br>
  <p align="center">
- <smail>Play is the true mother of invention.<smail>
+ <smail>Try to pay at least one person a compliment every day.<smail>
  </p>
 <br>
 <img alt="little snake" src="https://github.com/sebastianjnuwu/sebastianjnuwu/blob/output/github-contribution-grid-snake.svg"/>
