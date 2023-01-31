@@ -3,7 +3,7 @@
 </div>
 <br>
  <p align="center">
- <smail>You never really grow up.<smail>
+ <smail>When something goes wrong in life, just shout "plot twist!" and carry on.<smail>
  </p>
 <br>
 <img alt="little snake" src="https://github.com/sebastianjnuwu/sebastianjnuwu/blob/output/github-contribution-grid-snake.svg"/>
