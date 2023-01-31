@@ -3,7 +3,7 @@
 </div>
 <br>
  <p align="center">
- <smail>When something goes wrong in life, just shout "plot twist!" and carry on.<smail>
+ <smail>Try buying a coffee for the creator of a free public API, now and then.<smail>
  </p>
 <br>
 <img alt="little snake" src="https://github.com/sebastianjnuwu/sebastianjnuwu/blob/output/github-contribution-grid-snake.svg"/>
