@@ -3,7 +3,7 @@
 </div>
 <br>
  <p align="center">
- <smail>Try buying a coffee for the creator of a free public API, now and then.<smail>
+ <smail>The person who never made a mistake never made anything.<smail>
  </p>
 <br>
 <img alt="little snake" src="https://github.com/sebastianjnuwu/sebastianjnuwu/blob/output/github-contribution-grid-snake.svg"/>
