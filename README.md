@@ -3,7 +3,7 @@
 </div>
 <br>
  <p align="center">
- <smail>The person who never made a mistake never made anything.<smail>
+ <smail>Don't feed Mogwais after midnight.<smail>
  </p>
 <br>
 <img alt="little snake" src="https://github.com/sebastianjnuwu/sebastianjnuwu/blob/output/github-contribution-grid-snake.svg"/>
