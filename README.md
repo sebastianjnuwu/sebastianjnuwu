@@ -3,7 +3,7 @@
 </div>
 <br>
  <p align="center">
- <smail>The higher up you are in a company, the more likely it is that your boss is a psychopath.<smail>
+ <smail>To cleanly remove the seed from an Avocado, lay a knife firmly across it, and twist.<smail>
  </p>
 <br>
 <img alt="little snake" src="https://github.com/sebastianjnuwu/sebastianjnuwu/blob/output/github-contribution-grid-snake.svg"/>
