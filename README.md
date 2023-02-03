@@ -3,7 +3,7 @@
 </div>
 <br>
  <p align="center">
- <smail>If you get stuck, try doing the opposite of what the solution requires.<smail>
+ <smail>Life is short enough, don't race to the finish.<smail>
  </p>
 <br>
 <img alt="little snake" src="https://github.com/sebastianjnuwu/sebastianjnuwu/blob/output/github-contribution-grid-snake.svg"/>
