@@ -3,7 +3,7 @@
 </div>
 <br>
  <p align="center">
- <smail>Most things done in secrecy are better left undone.<smail>
+ <smail>Play is the true mother of invention.<smail>
  </p>
 <br>
 <img alt="little snake" src="https://github.com/sebastianjnuwu/sebastianjnuwu/blob/output/github-contribution-grid-snake.svg"/>
