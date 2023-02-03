@@ -3,7 +3,7 @@
 </div>
 <br>
  <p align="center">
- <smail>Life is short enough, don't race to the finish.<smail>
+ <smail>Most things done in secrecy are better left undone.<smail>
  </p>
 <br>
 <img alt="little snake" src="https://github.com/sebastianjnuwu/sebastianjnuwu/blob/output/github-contribution-grid-snake.svg"/>
