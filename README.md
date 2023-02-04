@@ -3,7 +3,7 @@
 </div>
 <br>
  <p align="center">
- <smail>To cleanly remove the seed from an Avocado, lay a knife firmly across it, and twist.<smail>
+ <smail>Work is never as important as you think it is.<smail>
  </p>
 <br>
 <img alt="little snake" src="https://github.com/sebastianjnuwu/sebastianjnuwu/blob/output/github-contribution-grid-snake.svg"/>
