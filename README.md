@@ -3,7 +3,7 @@
 </div>
 <br>
  <p align="center">
- <smail>Never run a marathon in Crocs.<smail>
+ <smail>Work is never as important as you think it is.<smail>
  </p>
 <br>
 <img alt="little snake" src="https://github.com/sebastianjnuwu/sebastianjnuwu/blob/output/github-contribution-grid-snake.svg"/>
