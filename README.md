@@ -3,7 +3,7 @@
 </div>
 <br>
  <p align="center">
- <smail>Play is the true mother of invention.<smail>
+ <smail>Never run a marathon in Crocs.<smail>
  </p>
 <br>
 <img alt="little snake" src="https://github.com/sebastianjnuwu/sebastianjnuwu/blob/output/github-contribution-grid-snake.svg"/>
