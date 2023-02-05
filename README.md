@@ -3,7 +3,7 @@
 </div>
 <br>
  <p align="center">
- <smail>If you have grandparents or parents - Talk to them more. Ask them about their life experiences.<smail>
+ <smail>You're not as fat as you think you are.<smail>
  </p>
 <br>
 <img alt="little snake" src="https://github.com/sebastianjnuwu/sebastianjnuwu/blob/output/github-contribution-grid-snake.svg"/>
