@@ -3,7 +3,7 @@
 </div>
 <br>
  <p align="center">
- <smail>Always bet on black.<smail>
+ <smail>You don't need to floss all of your teeth. Only the ones you want to keep.<smail>
  </p>
 <br>
 <img alt="little snake" src="https://github.com/sebastianjnuwu/sebastianjnuwu/blob/output/github-contribution-grid-snake.svg"/>
