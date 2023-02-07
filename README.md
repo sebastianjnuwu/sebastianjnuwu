@@ -3,7 +3,7 @@
 </div>
 <br>
  <p align="center">
- <smail>The best sex is fun.<smail>
+ <smail>Most things are not as bad as you think they are.<smail>
  </p>
 <br>
 <img alt="little snake" src="https://github.com/sebastianjnuwu/sebastianjnuwu/blob/output/github-contribution-grid-snake.svg"/>
