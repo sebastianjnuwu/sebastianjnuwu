@@ -3,7 +3,7 @@
 </div>
 <br>
  <p align="center">
- <smail>You spend half your life asleep or in bed. It's worth spending money on a good mattress, decent pillows and a comfy duvet.<smail>
+ <smail>Accept advice.<smail>
  </p>
 <br>
 <img alt="little snake" src="https://github.com/sebastianjnuwu/sebastianjnuwu/blob/output/github-contribution-grid-snake.svg"/>
