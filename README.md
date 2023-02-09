@@ -3,7 +3,7 @@
 </div>
 <br>
  <p align="center">
- <smail>Brush your teeth the moment you get up.<smail>
+ <smail>Try to not compliment people on things they don't control.<smail>
  </p>
 <br>
 <img alt="little snake" src="https://github.com/sebastianjnuwu/sebastianjnuwu/blob/output/github-contribution-grid-snake.svg"/>
