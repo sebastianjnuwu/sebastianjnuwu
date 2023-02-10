@@ -3,7 +3,7 @@
 </div>
 <br>
  <p align="center">
- <smail>Try to not compliment people on things they don't control.<smail>
+ <smail>A nod is as good as a wink to a blind horse.<smail>
  </p>
 <br>
 <img alt="little snake" src="https://github.com/sebastianjnuwu/sebastianjnuwu/blob/output/github-contribution-grid-snake.svg"/>
