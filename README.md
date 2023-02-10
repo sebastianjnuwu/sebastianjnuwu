@@ -3,7 +3,7 @@
 </div>
 <br>
  <p align="center">
- <smail>Build something out of LEGO.<smail>
+ <smail>Never let your Mother cut your hair.<smail>
  </p>
 <br>
 <img alt="little snake" src="https://github.com/sebastianjnuwu/sebastianjnuwu/blob/output/github-contribution-grid-snake.svg"/>
