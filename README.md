@@ -3,7 +3,7 @@
 </div>
 <br>
  <p align="center">
- <smail>State the problem in words as clearly as possible.<smail>
+ <smail>Drink a glass of water before meals.<smail>
  </p>
 <br>
 <img alt="little snake" src="https://github.com/sebastianjnuwu/sebastianjnuwu/blob/output/github-contribution-grid-snake.svg"/>
