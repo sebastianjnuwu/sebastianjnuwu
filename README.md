@@ -3,7 +3,7 @@
 </div>
 <br>
  <p align="center">
- <smail>To improve productivity, always have a shittier task to put off.<smail>
+ <smail>It's always the quiet ones.<smail>
  </p>
 <br>
 <img alt="little snake" src="https://github.com/sebastianjnuwu/sebastianjnuwu/blob/output/github-contribution-grid-snake.svg"/>
