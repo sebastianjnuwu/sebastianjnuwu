@@ -3,7 +3,7 @@
 </div>
 <br>
  <p align="center">
- <smail>A common regret in life is wishing one hadn't worked so hard.<smail>
+ <smail>Do, or do not. There is no try.<smail>
  </p>
 <br>
 <img alt="little snake" src="https://github.com/sebastianjnuwu/sebastianjnuwu/blob/output/github-contribution-grid-snake.svg"/>
