@@ -3,7 +3,7 @@
 </div>
 <br>
  <p align="center">
- <smail>It is easy to sit up and take notice, what's difficult is getting up and taking action.<smail>
+ <smail>A common regret in life is wishing one hadn't worked so hard.<smail>
  </p>
 <br>
 <img alt="little snake" src="https://github.com/sebastianjnuwu/sebastianjnuwu/blob/output/github-contribution-grid-snake.svg"/>
