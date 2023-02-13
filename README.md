@@ -3,7 +3,7 @@
 </div>
 <br>
  <p align="center">
- <smail>Do, or do not. There is no try.<smail>
+ <smail>If you get stuck, try doing the opposite of what the solution requires.<smail>
  </p>
 <br>
 <img alt="little snake" src="https://github.com/sebastianjnuwu/sebastianjnuwu/blob/output/github-contribution-grid-snake.svg"/>
