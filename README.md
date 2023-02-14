@@ -3,7 +3,7 @@
 </div>
 <br>
  <p align="center">
- <smail>Sarcasm is the lowest form of wit. Employ correctly with apt timing.<smail>
+ <smail>Don't be afraid of silly ideas.<smail>
  </p>
 <br>
 <img alt="little snake" src="https://github.com/sebastianjnuwu/sebastianjnuwu/blob/output/github-contribution-grid-snake.svg"/>
