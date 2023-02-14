@@ -3,7 +3,7 @@
 </div>
 <br>
  <p align="center">
- <smail>Don't be afraid of silly ideas.<smail>
+ <smail>If you have the chance, take it!<smail>
  </p>
 <br>
 <img alt="little snake" src="https://github.com/sebastianjnuwu/sebastianjnuwu/blob/output/github-contribution-grid-snake.svg"/>
