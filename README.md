@@ -3,7 +3,7 @@
 </div>
 <br>
  <p align="center">
- <smail>Things are just things. Don't get too attached to them.<smail>
+ <smail>Sarcasm is the lowest form of wit. Employ correctly with apt timing.<smail>
  </p>
 <br>
 <img alt="little snake" src="https://github.com/sebastianjnuwu/sebastianjnuwu/blob/output/github-contribution-grid-snake.svg"/>
