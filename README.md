@@ -3,7 +3,7 @@
 </div>
 <br>
  <p align="center">
- <smail>Eliminate the unnecessary.<smail>
+ <smail>Smile and the world smiles with you. Frown and you're on your own.<smail>
  </p>
 <br>
 <img alt="little snake" src="https://github.com/sebastianjnuwu/sebastianjnuwu/blob/output/github-contribution-grid-snake.svg"/>
