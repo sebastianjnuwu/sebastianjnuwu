@@ -3,7 +3,7 @@
 </div>
 <br>
  <p align="center">
- <smail>If you have the chance, take it!<smail>
+ <smail>Stop using the term "busy" as an excuse.<smail>
  </p>
 <br>
 <img alt="little snake" src="https://github.com/sebastianjnuwu/sebastianjnuwu/blob/output/github-contribution-grid-snake.svg"/>
