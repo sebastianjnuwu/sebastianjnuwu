@@ -3,7 +3,7 @@
 </div>
 <br>
  <p align="center">
- <smail>Everything in moderation, including moderation itself.<smail>
+ <smail>You will always regret the round of JÃ¤germeister.<smail>
  </p>
 <br>
 <img alt="little snake" src="https://github.com/sebastianjnuwu/sebastianjnuwu/blob/output/github-contribution-grid-snake.svg"/>
