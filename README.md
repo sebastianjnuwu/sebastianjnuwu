@@ -3,7 +3,7 @@
 </div>
 <br>
  <p align="center">
- <smail>Lemon and salt works wonders on tarnished brass.<smail>
+ <smail>You're not as fat as you think you are.<smail>
  </p>
 <br>
 <img alt="little snake" src="https://github.com/sebastianjnuwu/sebastianjnuwu/blob/output/github-contribution-grid-snake.svg"/>
