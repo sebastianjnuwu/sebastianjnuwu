@@ -3,7 +3,7 @@
 </div>
 <br>
  <p align="center">
- <smail>Vinegar is a powerful cleaning agent.<smail>
+ <smail>You never really grow up.<smail>
  </p>
 <br>
 <img alt="little snake" src="https://github.com/sebastianjnuwu/sebastianjnuwu/blob/output/github-contribution-grid-snake.svg"/>
