@@ -3,7 +3,7 @@
 </div>
 <br>
  <p align="center">
- <smail>You don't need to floss all of your teeth. Only the ones you want to keep.<smail>
+ <smail>Visitors are like fish: As much as you might like them, after three days they start to smell.<smail>
  </p>
 <br>
 <img alt="little snake" src="https://github.com/sebastianjnuwu/sebastianjnuwu/blob/output/github-contribution-grid-snake.svg"/>
