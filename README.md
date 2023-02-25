@@ -3,7 +3,7 @@
 </div>
 <br>
  <p align="center">
- <smail>Visitors are like fish: As much as you might like them, after three days they start to smell.<smail>
+ <smail>If you find yourself distressed about something, ask yourself if it will still matter tomorrow or next week or next month.<smail>
  </p>
 <br>
 <img alt="little snake" src="https://github.com/sebastianjnuwu/sebastianjnuwu/blob/output/github-contribution-grid-snake.svg"/>
