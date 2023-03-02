@@ -3,7 +3,7 @@
 </div>
 <br>
  <p align="center">
- <smail>What's stopping you?<smail>
+ <smail>If you're feeling tired or anxious, a pint of water will almost always make you feel better.<smail>
  </p>
 <br>
 <img alt="little snake" src="https://github.com/sebastianjnuwu/sebastianjnuwu/blob/output/github-contribution-grid-snake.svg"/>
