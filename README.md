@@ -3,7 +3,7 @@
 </div>
 <br>
  <p align="center">
- <smail>It is easy to sit up and take notice, what's difficult is getting up and taking action.<smail>
+ <smail>Do, or do not. There is no try.<smail>
  </p>
 <br>
 <img alt="little snake" src="https://github.com/sebastianjnuwu/sebastianjnuwu/blob/output/github-contribution-grid-snake.svg"/>
