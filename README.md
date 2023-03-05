@@ -3,7 +3,7 @@
 </div>
 <br>
  <p align="center">
- <smail>Do, or do not. There is no try.<smail>
+ <smail>Walking is a perfectly valid solution to traffic congestion problems.<smail>
  </p>
 <br>
 <img alt="little snake" src="https://github.com/sebastianjnuwu/sebastianjnuwu/blob/output/github-contribution-grid-snake.svg"/>
