@@ -3,7 +3,7 @@
 </div>
 <br>
  <p align="center">
- <smail>Walking is a perfectly valid solution to traffic congestion problems.<smail>
+ <smail>Give up your seat for someone who needs it.<smail>
  </p>
 <br>
 <img alt="little snake" src="https://github.com/sebastianjnuwu/sebastianjnuwu/blob/output/github-contribution-grid-snake.svg"/>
