@@ -3,7 +3,7 @@
 </div>
 <br>
  <p align="center">
- <smail>Give up your seat for someone who needs it.<smail>
+ <smail>As things get closer to the light, the shadows get darker.<smail>
  </p>
 <br>
 <img alt="little snake" src="https://github.com/sebastianjnuwu/sebastianjnuwu/blob/output/github-contribution-grid-snake.svg"/>
