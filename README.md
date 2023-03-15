@@ -3,7 +3,7 @@
 </div>
 <br>
  <p align="center">
- <smail>Always double check you actually attached the file to the email.<smail>
+ <smail>Respect your elders.<smail>
  </p>
 <br>
 <img alt="little snake" src="https://github.com/sebastianjnuwu/sebastianjnuwu/blob/output/github-contribution-grid-snake.svg"/>
