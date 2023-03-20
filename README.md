@@ -3,7 +3,7 @@
 </div>
 <br>
  <p align="center">
- <smail>Don't always believe what you think.<smail>
+ <smail>Rule number 1: Try not to die. Rule number 2: Don't be a dick.<smail>
  </p>
 <br>
 <img alt="little snake" src="https://github.com/sebastianjnuwu/sebastianjnuwu/blob/output/github-contribution-grid-snake.svg"/>
