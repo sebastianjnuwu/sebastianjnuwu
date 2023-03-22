@@ -3,7 +3,7 @@
 </div>
 <br>
  <p align="center">
- <smail>Life is better when you sing about bananas.<smail>
+ <smail>Avoid mixing Ginger Nuts with other biscuits, they contaminate. Keep separated.<smail>
  </p>
 <br>
 <img alt="little snake" src="https://github.com/sebastianjnuwu/sebastianjnuwu/blob/output/github-contribution-grid-snake.svg"/>
