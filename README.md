@@ -3,7 +3,7 @@
 </div>
 <br>
  <p align="center">
- <smail>Avoid mixing Ginger Nuts with other biscuits, they contaminate. Keep separated.<smail>
+ <smail>The higher up you are in a company, the more likely it is that your boss is a psychopath.<smail>
  </p>
 <br>
 <img alt="little snake" src="https://github.com/sebastianjnuwu/sebastianjnuwu/blob/output/github-contribution-grid-snake.svg"/>
