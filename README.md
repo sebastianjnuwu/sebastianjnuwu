@@ -3,7 +3,7 @@
 </div>
 <br>
  <p align="center">
- <smail>Eliminate the unnecessary.<smail>
+ <smail>Don't drink bleach.<smail>
  </p>
 <br>
 <img alt="little snake" src="https://github.com/sebastianjnuwu/sebastianjnuwu/blob/output/github-contribution-grid-snake.svg"/>
