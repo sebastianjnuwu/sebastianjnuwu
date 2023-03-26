@@ -3,7 +3,7 @@
 </div>
 <br>
  <p align="center">
- <smail>Don't drink bleach.<smail>
+ <smail>Learn to handle criticism.<smail>
  </p>
 <br>
 <img alt="little snake" src="https://github.com/sebastianjnuwu/sebastianjnuwu/blob/output/github-contribution-grid-snake.svg"/>
