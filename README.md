@@ -3,7 +3,7 @@
 </div>
 <br>
  <p align="center">
- <smail>Don't feed Mogwais after midnight.<smail>
+ <smail>Never run with scissors.<smail>
  </p>
 <br>
 <img alt="little snake" src="https://github.com/sebastianjnuwu/sebastianjnuwu/blob/output/github-contribution-grid-snake.svg"/>
