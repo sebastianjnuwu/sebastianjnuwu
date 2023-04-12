@@ -3,7 +3,7 @@
 </div>
 <br>
  <p align="center">
- <smail>Don't try and bump start a motorcycle on an icy road.<smail>
+ <smail>Never set an alarm clock unless you know how to switch it off<smail>
  </p>
 <br>
 <img alt="little snake" src="https://github.com/sebastianjnuwu/sebastianjnuwu/blob/output/github-contribution-grid-snake.svg"/>
