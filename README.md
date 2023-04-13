@@ -3,7 +3,7 @@
 </div>
 <br>
  <p align="center">
- <smail>Never set an alarm clock unless you know how to switch it off<smail>
+ <smail>Opinions are like arseholes, everyone has one.<smail>
  </p>
 <br>
 <img alt="little snake" src="https://github.com/sebastianjnuwu/sebastianjnuwu/blob/output/github-contribution-grid-snake.svg"/>
