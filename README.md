@@ -3,7 +3,7 @@
 </div>
 <br>
  <p align="center">
- <smail>One of the single best things about being an adult, is being able to buy as much LEGO as you want.<smail>
+ <smail>Don't try and bump start a motorcycle on an icy road.<smail>
  </p>
 <br>
 <img alt="little snake" src="https://github.com/sebastianjnuwu/sebastianjnuwu/blob/output/github-contribution-grid-snake.svg"/>
