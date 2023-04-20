@@ -3,7 +3,7 @@
 </div>
 <br>
  <p align="center">
- <smail>Fail. Fail again. Fail better.<smail>
+ <smail>Don't judge a book by its cover, unless it has a synopsis on the back.<smail>
  </p>
 <br>
 <img alt="little snake" src="https://github.com/sebastianjnuwu/sebastianjnuwu/blob/output/github-contribution-grid-snake.svg"/>
