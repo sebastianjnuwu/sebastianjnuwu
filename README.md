@@ -3,7 +3,6 @@
 </div>
 <br>
  <p align="center">
- <smail>Always bet on black.<smail>
+ <smail>Always bet on white, after all you've already won!</smail>
  </p>
 <br>
-<img alt="little snake" src="https://github.com/sebastianjnuwu/sebastianjnuwu/blob/output/github-contribution-grid-snake.svg"/>
