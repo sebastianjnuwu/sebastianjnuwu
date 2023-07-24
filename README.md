@@ -6,3 +6,4 @@
  <smail>Always bet on white, after all you've already won!</smail>
  </p>
 <br>
+<img src="https://github-readme-stats.vercel.app/api?username=sebastianjnuwu&bg_color=161B21&theme=react&hide_border=true&hide_title=true&count_private=true" />
