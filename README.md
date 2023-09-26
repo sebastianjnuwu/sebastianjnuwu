@@ -9,6 +9,9 @@
 <img src="https://github-readme-stats.vercel.app/api?username=sebastianjnuwu&bg_color=161B21&theme=tokyonight&hide_border=true&hide_title=true&count_private=true&border_color=fff&show_icons=true" />
 
 <!-- 
+
+esqueleto: https://docs.google.com/document/d/1tZI1-cWv9wPzWj8Oh_xidZPET7o_U8QQurbPE1FimxU/edit?usp=drivesdk
+
 Rede social: http://4usoivrpy52lmc4mgn2h34cmfiltslesthr56yttv2pxudd3dapqciyd.onion/hisparefugio/
 
 Mapa da deep web: http://s4k4ceiapwwgcm3mkb6e4diqecpo7kvdnfr5gg7sph7jjppqkvwwqtyd.onion/
