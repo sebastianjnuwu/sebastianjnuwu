@@ -3,7 +3,7 @@
 
 # 1.1 Metodologia
 
-A metodologia adotada no artigo “And justice for all: Revisiting the Global Belief in a Just World Scale (GBJWS)” foi delineada com o propósito de testar as propriedades psicométricas da Escala Global de Crença em um Mundo Justo (GBJWS), especialmente quanto à sua validade.
+A metodologia adotada no artigo “And justice for all: Revisiting the Global Belief in a Just World Scale (GBJWS)” foi  com o propósito de testar as propriedades psicométricas da Escala Global de Crença em um Mundo Justo (GBJWS), especialmente quanto à sua validade.
 
 ## 1.2 Objetivos metodológicos
 
