@@ -103,7 +103,7 @@
       $("#naoBtn").on("mouseenter click", function(){
         tentativas++;
         
-        if (tentativas < 5) {
+        if (tentativas < 3) {
           // move o botão para posição aleatória
           const x = Math.random() * 200 - 100; 
           const y = Math.random() * 200 - 100;
@@ -111,7 +111,7 @@
             transform: `translate(${x}px, ${y}px)`
           });
         } else {
-          $("#mensagem").text("Que bom, pois ele já namora com a Maysa 😎💖");
+          $("#mensagem").text("Que bom, pois ele já é propriedade da Maysa 😎💖");
           $("#naoBtn, #simBtn").prop("disabled", true);
         }
       });
